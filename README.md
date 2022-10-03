@@ -4,7 +4,7 @@
 
 A password generator which includes:
 
-- Prompts askign the user how long they would like the password to be and which types of characters they would like it to include
+- Prompts asking the user how long they would like the password to be and which types of characters they would like it to include
 - Alerts if the length is outside the range for the generator or no character types have been selected
 - Once the user has made their selections, the password is displayed and can be selected for copying
 - The HTML, CSS, and a bit of Javascript were provided for this challenge and Javascript was used to complete it
